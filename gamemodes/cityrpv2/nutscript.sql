@@ -1,5 +1,5 @@
 SET FOREIGN_KEY_CHECKS=0;
-
+--Numpty Save
 CREATE TABLE `characters` (
   `key` mediumint(8) unsigned zerofill NOT NULL AUTO_INCREMENT,
   `steamid` bigint(30) unsigned NOT NULL,
